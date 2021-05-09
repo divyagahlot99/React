@@ -10,6 +10,10 @@ This project is solely for learning purposes, may have MANY, MANY mistakes. Coll
 
 ![image](https://github.com/divyagahlot99/React/blob/main/snake-game/snake-game.gif)
 
+* Chat application
+
+![alt-text](https://github.com/divyagahlot99/React/blob/main/chat-application/chatapplication-using-Socket.io/chatsockets.gif)
+
 * Calculator
 
 ![alt-text](https://github.com/divyagahlot99/React/blob/main/calculator/calc.gif)
