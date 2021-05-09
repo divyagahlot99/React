@@ -21,7 +21,7 @@ In your favourite code editor:
     * Express `npm install express`
     * Socket.io `npm install socket.io`
 
-  - Create Server by creating a file `Server.js` and typing in the following code:
+  - Create Server by creating a file `server.js` and typing in the following code:
 
 ```
 const express = require("express");
@@ -35,6 +35,7 @@ const io = socket(server);
 server.listen(8000, () => console.log("server is running on port 8000"))
 ```
 
+  - Start the server using `node server.js`
 
 ### CLIENT (React)
 
