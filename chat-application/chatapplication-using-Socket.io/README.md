@@ -4,8 +4,11 @@
 
 Okay so this is one of the most widely used forms of server-client systems and learning about socket.io is a must. The backend or the server side runs on Node and communication is established using Socket.io.
 
-<br/>
+### PREVIEW
 
+![alt-text](https://github.com/divyagahlot99/React/blob/main/chat-application/chatapplication-using-Socket.io/chatsockets.gif)
+
+<br/>
 
 ## To create Real-time connection between a Client and Server using Socket.io:
 
