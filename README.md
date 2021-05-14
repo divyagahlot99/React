@@ -44,7 +44,11 @@ Link <a>https://github.com/divyagahlot99/React/tree/main/piano-tiles</a>
 
 * Course Registration App
 
+Main Page
+
 ![image](https://user-images.githubusercontent.com/48877568/116817324-67794b80-ab83-11eb-8d5e-64c246a3085c.png)
+
+Add Course 
 
 ![image](https://user-images.githubusercontent.com/48877568/116817311-56c8d580-ab83-11eb-834c-fa4007d98c73.png)
 
